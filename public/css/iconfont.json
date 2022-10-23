@@ -1,0 +1,79 @@
+{
+  "id": "3683220",
+  "name": "arrow",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "784212",
+      "name": "版权",
+      "font_class": "banquan",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "1727596",
+      "name": "409折线图-线性",
+      "font_class": "zhexiantu-xianxing",
+      "unicode": "e904",
+      "unicode_decimal": 59652
+    },
+    {
+      "icon_id": "3427791",
+      "name": "时间",
+      "font_class": "icon-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3858935",
+      "name": "品味生活",
+      "font_class": "pinweishenghuo",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "6539444",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "7159318",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "11891768",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "18170358",
+      "name": "日历,日期",
+      "font_class": "calendar-full",
+      "unicode": "e9ab",
+      "unicode_decimal": 59819
+    },
+    {
+      "icon_id": "7370436",
+      "name": "UP",
+      "font_class": "UP",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7382032",
+      "name": "DOWN",
+      "font_class": "DOWN",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
